@@ -6,6 +6,7 @@
       body{
         background-color:#1F618D;
         color:#9B00FF;
+     font-family:Fantasy;
       }
     </style>
   <body>
